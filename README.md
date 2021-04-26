@@ -14,7 +14,7 @@ Website: [sisonkebiotik.africa](https://sisonkebiotik.africa)
 
 ## Our Mission
 
-**SisonkeBiotik** is an open and inclusive community of researchers, practitioners and enthusiasts at the intersection of Machine Learning and Healthcare working together to build capacity and drive forward grassroots research projects in Africa for Machine Learning and Healthcare.   
+**SisonkeBiotik** is an open and inclusive community of researchers, practitioners and enthusiasts at the intersection of Machine Learning and Healthcare working together to build capacity and drive forward grassroots research initiatives in Africa for Machine Learning and Healthcare.   
 
 The tragic past of colonialism has been devastating for Africa. This has resulted in technological space that does not understand our names, our cultures, our places, our history. 
 
@@ -115,3 +115,9 @@ Keen to help on any of these initiatives? Please find it on the [SisonkeBiotik D
 # Code of Conduct
 
 See [Code of Conduct](CODE_OF_CONDUCT.md)
+
+
+# Credit and forks 
+**SisonkeBiotik** is a fork of the Masakhane research community model - find [their repository here](https://github.com/masakhane-io/masakhane-community) and fork your own community today =D 
+
+or fork the SisonkeBiotik community [repository here](https://github.com/SisonkeBiotik-Africa/SisonkeBiotik-Community)
