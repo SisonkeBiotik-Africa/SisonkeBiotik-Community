@@ -62,8 +62,8 @@ Our goal is for Africans to shape and own these technological advances towards h
 There are many ways to contribute to **SisonkeBiotik**.
 
 ### Generally 
-1. **BRAINSTORM** Join our weekly meetings, provide advice or ideas
-2. **INTEREST GROUPS** Join a specific interest group on the [SisonkeBiotik Discord Server](https://discord.gg/YKDeK2QeUB)
+1. **BRAINSTORM** - Join our weekly meetings, provide advice or ideas
+2. **INTEREST GROUPS** - Join a specific interest group on the [SisonkeBiotik Discord Server](https://discord.gg/YKDeK2QeUB)
 3. **DOCUMENTATION** - Help document our discussions, progress. This is VERY much needed. Or contribute to documentation of a base "notebook" that will improve the experience of others
 4. **MENTORSHIP** - Provide advice
 5. **ADMIN** - Working with so many researchers can be quite a challenge! Help out with administrative tasks
