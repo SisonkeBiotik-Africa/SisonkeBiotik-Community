@@ -1,4 +1,4 @@
- # SisonkeBiotik - A living collection of Machine Learning and Healthcare research iniatives for Africans, by Africans
+ # SisonkeBiotik - A living collection of Machine Learning and Healthcare research initiatives for Africans, by Africans
 
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
@@ -8,7 +8,7 @@
 <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fimages2.minutemediacdn.com%2Fimage%2Fupload%2Fc_fit%2Cf_auto%2Cfl_lossy%2Cq_auto%2Cw_728%2Fv1555999902%2Fshape%2Fmentalfloss%2Fconstruction_8.gif%3Fitok%3Di0AHeyO3&sp=1619426074T8210839b62f6505dd220cfa81cfbd4f6794bb1412aef9926ffb48e3964b32ccc" >
 </div>
 
-**SisonkeBiotik** is an research effort for Machine Learning and Healthcare that is OPEN SOURCE, CONTINENT-WIDE, DISTRIBUTED and ONLINE. This GitHub repository houses the data, code, results and research for our iniatives.
+**SisonkeBiotik** is an research effort for Machine Learning and Healthcare that is OPEN SOURCE, CONTINENT-WIDE, DISTRIBUTED and ONLINE. This GitHub repository houses the data, code, results and research for our initiatives.
 
 Website: [sisonkebiotik.africa](https://sisonkebiotik.africa)
 
@@ -71,11 +71,11 @@ There are many ways to contribute to **SisonkeBiotik**.
 7. **STORY-TELLING** - Tell our stories to the world by doing talks about the community, contributing to our [Medium publication - TODO](), or engaging with media outlets
 8. **MLOps & ML Engineering** - Do you enjoy delving into the MLOps side of machine learning? Are you a software developer looking to hone-in on your ML engineer abilities? Join us to help build tools to support out reproducability, data gathering, and model sharing!
 
-### RESEARCH INIATIVES 
-1. **START RESEARCH INIATIVE**
-2. **CONTRIBUTE TO A RESEARCH INIATIVE**
+### RESEARCH INITIATIVES  
+1. **START RESEARCH INITIATIVE**
+2. **CONTRIBUTE TO A RESEARCH INITIATIVE**
    1. **DATA** - Help build or find datasets 
-   2. **ANALYSIS** - Contribute analysis of data/models. You do not need any technical experience for this! If you're a healthcare practioner, we can pair you up with a Machine Learning practitioner and you can help contribute analysis
+   2. **ANALYSIS** - Contribute analysis of data/models. You do not need any technical experience for this! If you're a healthcare practitioner, we can pair you up with a Machine Learning practitioner and you can help contribute analysis
 
 
 Want more details? Check out our [current initiatives](https://github.com/SisonkeBiotik-Africa/SisonkeBiotik-Community/blob/master/initiatives.md)
