@@ -1,4 +1,4 @@
- # SisonkeBiotik - A living collection of Machine Learning and Healthcare projects for Africans, by Africans
+ # SisonkeBiotik - A living collection of Machine Learning and Healthcare iniatives for Africans, by Africans
 
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
@@ -57,36 +57,33 @@ Our goal is for Africans to shape and own these technological advances towards h
 
 - **For the global researchers community**: To discover best practices for distributed research, to be applied by other emerging research communities.
 
-
-## Progress
-
-- Find our more about our [current initiatives - TODO](https://github.com/SisonkeBiotik-io/SisonkeBiotik-community/blob/master/initiatives.md)
-- Look at our list of [community documents - TODO](https://github.com/SisonkeBiotik-io/SisonkeBiotik-community/blob/master/community-documents.md)
-- Read our [weekly meeting notes - TODO](https://github.com/SisonkeBiotik-io/SisonkeBiotik-community/tree/master/meetingsummaries)
-- Follow our publication on [Medium - TODO]()
-
 ## How can I contribute?
 
 There are many ways to contribute to **SisonkeBiotik**.
 
-1. **TRAIN A MODEL** - Contribute a trained model and related code for your language
-2. **ANALYSIS** - Contribute analysis of data/models for any African languages. You do not need any technical experience for this! If you're a linguist, we can pair you up with a NLP practitioner and you can help contribute analysis
-3. **DATA** - Help build or find datasets for your language
-4. **DOCUMENTATION** - Help document our discussions, progress. This is VERY much needed. Or contribute to documentation of the base "notebook" that will improve the experience of others
-5. **MENTORSHIP** - Provide advice or help tune models for their languages and datasets, or help people get started
-6. **ADMIN** - Working with so many researchers can be quite a challenge! Help out with administrative tasks
-7. **COMPUTE** - Help with infrastructure and compute! Do you have spare compute to donate? Let us know! We're always looking for more!
-8. **BRAINSTORM** Join our weekly meetings, provide advice or ideas
-9. **STORY-TELLING** - Tell our stories to the world by doing talks about the community, contributing to our [Medium publication](https://medium.com/SisonkeBiotik), or engaging with media outlets
-10. **MLOps & ML Engineering** - Do you enjoy delving into the MLOps side of machine learning? Are you a software developer looking to hone-in on your ML engineer abilities? Join us to help build tools to support out reproducability, data gathering, and model sharing!
+### Generally 
+1. **BRAINSTORM** Join our weekly meetings, provide advice or ideas
+2. **INTEREST GROUPS** Join a specific interest group on the [SisonkeBiotik Discord Server](https://discord.gg/YKDeK2QeUB)
+3. **DOCUMENTATION** - Help document our discussions, progress. This is VERY much needed. Or contribute to documentation of a base "notebook" that will improve the experience of others
+4. **MENTORSHIP** - Provide advice
+5. **ADMIN** - Working with so many researchers can be quite a challenge! Help out with administrative tasks
+6. **COMPUTE** - Help with infrastructure and compute! Do you have spare compute to donate? Let us know! We're always looking for more!
+7. **STORY-TELLING** - Tell our stories to the world by doing talks about the community, contributing to our [Medium publication - TODO](), or engaging with media outlets
+8. **MLOps & ML Engineering** - Do you enjoy delving into the MLOps side of machine learning? Are you a software developer looking to hone-in on your ML engineer abilities? Join us to help build tools to support out reproducability, data gathering, and model sharing!
 
-Want more details? Check out our [current initiatives](https://github.com/SisonkeBiotik-io/SisonkeBiotik-community/blob/master/initiatives.md)
+### INIATIVES 
+1. **START INIATIVE**
+2. **CONTRIBUTE TO AN INIATIVE**
+   1. **DATA** - Help build or find datasets 
+   2. **ANALYSIS** - Contribute analysis of data/models. You do not need any technical experience for this! If you're a healthcare practioner, we can pair you up with a Machine Learning practitioner and you can help contribute analysis
+
+
+Want more details? Check out our [current initiatives](https://github.com/SisonkeBiotik-Africa/SisonkeBiotik-Community/blob/master/initiatives.md)
 
 ## How do I join?
 
 1. [![](https://img.shields.io/discord/808957148284321833?label=Join%20chat%20-%20Discord)](https://discord.gg/YKDeK2QeUB)
-2. Request to join our [Google Group - TODO]() 
-
+2. Request to join our mailing list ([Google Group - TODO]()) 
 3. So we can feature you on our webpage [sisonkebiotik.africa](https://sisonkebiotik.africa), please fill in our membership form [HERE - TODO]():
 
 
@@ -98,6 +95,12 @@ Want more details? Check out our [current initiatives](https://github.com/Sisonk
 - Every week, we have an open meeting for our members.
 - If you're not sure what value you can add, check out our growing [message board repository- TODO]() to see if there are any tasks you can pick up!
 
+## Progress
+
+- Find our more about our [current initiatives - TODO]()
+- Look at our list of [community documents - TODO]()
+- Read our [weekly meeting notes - TODO]()
+- Follow our publication on [Medium - TODO]()
 ## Initiatives
 
 Every week we have more ideas, and more impromptu projects that emerge. Keen on any initiatives? Join our Discord and find the respective group.
