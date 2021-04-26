@@ -1,4 +1,4 @@
- # SisonkeBiotik - A living collection of Machine Learning and Healthcare iniatives for Africans, by Africans
+ # SisonkeBiotik - A living collection of Machine Learning and Healthcare research iniatives for Africans, by Africans
 
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
@@ -71,9 +71,9 @@ There are many ways to contribute to **SisonkeBiotik**.
 7. **STORY-TELLING** - Tell our stories to the world by doing talks about the community, contributing to our [Medium publication - TODO](), or engaging with media outlets
 8. **MLOps & ML Engineering** - Do you enjoy delving into the MLOps side of machine learning? Are you a software developer looking to hone-in on your ML engineer abilities? Join us to help build tools to support out reproducability, data gathering, and model sharing!
 
-### INIATIVES 
-1. **START INIATIVE**
-2. **CONTRIBUTE TO AN INIATIVE**
+### RESEARCH INIATIVES 
+1. **START RESEARCH INIATIVE**
+2. **CONTRIBUTE TO A RESEARCH INIATIVE**
    1. **DATA** - Help build or find datasets 
    2. **ANALYSIS** - Contribute analysis of data/models. You do not need any technical experience for this! If you're a healthcare practioner, we can pair you up with a Machine Learning practitioner and you can help contribute analysis
 
