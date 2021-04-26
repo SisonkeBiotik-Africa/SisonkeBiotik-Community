@@ -118,6 +118,6 @@ See [Code of Conduct](CODE_OF_CONDUCT.md)
 
 
 # Credit and forks 
-**SisonkeBiotik** is a fork of the Masakhane research community model - find [their repository here](https://github.com/masakhane-io/masakhane-community) and fork your own community today =D 
+**SisonkeBiotik** is a fork of the **Masakhane** research community model - find [their repository here](https://github.com/masakhane-io/masakhane-community) and fork your own community today =D 
 
 or fork the SisonkeBiotik community [repository here](https://github.com/SisonkeBiotik-Africa/SisonkeBiotik-Community)
