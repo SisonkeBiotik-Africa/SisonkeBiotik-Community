@@ -14,9 +14,9 @@ Website: [sisonkebiotik.africa](https://sisonkebiotik.africa)
 
 ## Our Mission
 
-**SisonkeBiotik** is an open and inclusive community of researchers, practitioners and enthusiasts at the intersection of Machine Learning and Healthcare working together to build capacity and drive forward grassroots research projects in Africa for Machine Learning and Healthcare.   The tragic past of colonialism has been devastating for Africa.
+**SisonkeBiotik** is an open and inclusive community of researchers, practitioners and enthusiasts at the intersection of Machine Learning and Healthcare working together to build capacity and drive forward grassroots research projects in Africa for Machine Learning and Healthcare.   
 
-This has resulted in technological space that does not understand our names, our cultures, our places, our history. 
+The tragic past of colonialism has been devastating for Africa. This has resulted in technological space that does not understand our names, our cultures, our places, our history. 
 
 SisonkeBiotik roughly translates to “together Biotik” in isiZulu. Sisonke means “together” and Biotik is a play on Biotic “Life” (both in terms of healthcare and people) and BioTech “biological technology”
 
@@ -83,7 +83,7 @@ Want more details? Check out our [current initiatives](https://github.com/Sisonk
 ## How do I join?
 
 1. [![](https://img.shields.io/discord/808957148284321833?label=Join%20chat%20-%20Discord)](https://discord.gg/YKDeK2QeUB)
-2. Request to join our mailing list ([Google Group - TODO]()) 
+2. Request to join our [Google Group](https://groups.google.com/g/sisonkebiotik) or subscribe to our mailing list with a non-gmail email by filling in [this form](https://forms.gle/3qRMbkcktLSi8k1i7)
 3. So we can feature you on our webpage [sisonkebiotik.africa](https://sisonkebiotik.africa), please fill in our membership form [HERE - TODO]():
 
 
