@@ -1,6 +1,6 @@
-# Masakhane Meeting Notes: <date>
+# SisonkeBiotik Meeting Notes: <date>
 
-- Time: 19:00
+- Time: 18:00 UTC +2h 
 - Number of Attendees: <insert>
 - Notes taken by: <Name of scribe>
 
