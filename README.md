@@ -5,8 +5,9 @@
 [![](https://img.shields.io/discord/808957148284321833?label=Join%20chat%20-%20Discord)](https://discord.gg/YKDeK2QeUB)
 
 <div align="center">
-<img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fimages2.minutemediacdn.com%2Fimage%2Fupload%2Fc_fit%2Cf_auto%2Cfl_lossy%2Cq_auto%2Cw_728%2Fv1555999902%2Fshape%2Fmentalfloss%2Fconstruction_8.gif%3Fitok%3Di0AHeyO3&sp=1619426074T8210839b62f6505dd220cfa81cfbd4f6794bb1412aef9926ffb48e3964b32ccc" >
+<img src="docs/images/sisonke_biotik_wide.jpg" >
 </div>
+
 
 **SisonkeBiotik** is an research effort for Machine Learning and Healthcare that is OPEN SOURCE, CONTINENT-WIDE, DISTRIBUTED and ONLINE. This GitHub repository houses the data, code, results and research for our initiatives.
 
